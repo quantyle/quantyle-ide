@@ -1,0 +1,35 @@
+{
+    "error": [],
+    "result": {
+        "open": {
+            "OKGNJI-23WLS-P4KFB3": {
+                "refid": null,
+                "userref": 0,
+                "status": "open",
+                "opentm": 1646245198.1258056,
+                "starttm": 0,
+                "expiretm": 0,
+                "descr": {
+                    "pair": "ETHUSD",
+                    "type": "sell",
+                    "ordertype": "limit",
+                    "price": "3251.88",
+                    "price2": "0",
+                    "leverage": "none",
+                    "order": "sell 0.05068578 ETHUSD @ limit 3251.88",
+                    "close": ""
+                },
+                "vol": "0.05068578",
+                "vol_exec": "0.00000000",
+                "cost": "0.00000",
+                "fee": "0.00000",
+                "price": "0.00000",
+                "stopprice": "0.00000",
+                "limitprice": "0.00000",
+                "misc": "",
+                "oflags": "fciq"
+            }
+            
+        }
+    }
+}

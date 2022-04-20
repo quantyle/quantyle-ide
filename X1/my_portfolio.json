@@ -1,0 +1,43 @@
+{
+    "GDAX": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD",
+        "ADA-USD",
+        "SHIB-USD",
+        "AVAX-USD",
+        "APE-USD",
+        "DOGE-USD",
+        "ZEC-USD",
+        "MATIC-USD",
+        "LTC-USD",
+        "BCH-USD",
+        "ALGO-USD"
+    ],
+    "GMNI": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD",
+        "FTM-USD",
+        "LUNA-USD",
+        "APE-USD",
+        "DOGE-USD",
+        "ZEC-USD",
+        "MATIC-USD",
+        "LTC-USD",
+        "BCH-USD"
+    ],
+    "KRKN": [
+        "BTC-USD",
+        "ETH-USD",
+        "SOL-USD",
+        "ADA-USD",
+        "LUNA-USD",
+        "ATOM-USD",
+        "AXS-USD",
+        "DOT-USD",
+        "AAVE-USD",
+        "MATIC-USD",
+        "AVAX-USD"
+    ]
+}

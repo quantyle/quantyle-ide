@@ -1,0 +1,18 @@
+# dependencies
+/frontend/node_modules
+
+# NET5 binaries
+/X1/bin
+
+# NET5 debug objects
+/X1/obj
+
+/X1/keys.json
+
+/X1/media/data
+
+/X1/keys.json
+
+#react-ace
+
+/frontend/react-ace/node_modules
