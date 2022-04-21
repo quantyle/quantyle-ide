@@ -1,6 +1,9 @@
 # dependencies
 /frontend/node_modules
 
+# npm build directory
+/frontend/node_modules
+
 # NET5 binaries
 /X1/bin
 
@@ -11,8 +14,8 @@
 
 /X1/media/data
 
+# API Keys
 /X1/keys.json
 
 #react-ace
-
 /frontend/react-ace/node_modules

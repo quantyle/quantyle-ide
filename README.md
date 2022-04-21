@@ -6,7 +6,7 @@ bots for cryptocurrencies. Currrently the platform supports simulated trading on
 
 For more information [contact](mailto:randy@quantyle.io)
 
-![alt text](https://quantyle.io/media/q-logo.png)
+![alt text](./frontend/src/logo.svg)
 
 ## Requirements
 
