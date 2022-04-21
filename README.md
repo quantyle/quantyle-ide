@@ -18,7 +18,7 @@ Net5.0 and NodeJS v14.17.4
 2. install npm `cd frontend && npm i && npm run dev`
 3. in a new terminal: `cd X1 && dotnet run`. It may take some time to retrieve all ticks
 
-<img src="./frontend/src/readme-0.png" alt="drawing" width="400"/>
+<img src="./frontend/src/readme-0.png" alt="drawing" width="780"/>
 
 
 ## Disclaimer
