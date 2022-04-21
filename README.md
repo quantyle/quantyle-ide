@@ -6,7 +6,9 @@ bots for cryptocurrencies. Currrently the platform supports simulated trading on
 
 For more information [contact](mailto:randy@quantyle.io)
 
-![alt text](./frontend/src/logo.svg)
+
+<img src="./frontend/src/logo.svg" alt="drawing" width="200"/>
+
 
 ## Requirements
 
@@ -17,6 +19,7 @@ Net5.0 and NodeJS v14.17.4
 1. open project `cd quantyle-ide`
 2. install npm `cd frontend && npm i`
 2. in a new terminal: `cd X1 && dotnet run`. It may take some time to retrieve all ticks
+
 
 
 ## Disclaimer
