@@ -4,10 +4,8 @@ Quantyle is an open source integrated development environment (IDE) and programm
 This language is based on the Python programming language and was developed to simplify the process of testing and deploying trading 
 bots for cryptocurrencies. Currrently the platform supports simulated trading on Coinbase Pro, Gemini, BinanceUS, and Kraken. 
 
-For more information [contact](mailto:randy@quantyle.io)
 
-
-<img src="./frontend/src/logo.svg" alt="drawing" width="200"/>
+<img src="./frontend/src/techstack.svg" alt="drawing" width="400"/>
 
 
 ## Requirements
@@ -23,7 +21,7 @@ Net5.0 and NodeJS v14.17.4
 
 
 ## Disclaimer
-I am not responsible for any profits or losses made using this application. Use at your own risk.
+I am not responsible for any profits or losses made using this application. 
 
 ## License
 
