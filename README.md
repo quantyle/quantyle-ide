@@ -1,6 +1,6 @@
 # Quantyle IDE
 
-Quantyle is an open source integrated development environment (IDE) and programming language for crypto bots. 
+Quantyle is an open source integrated development environment (IDE) and programming language for algorithmic trading. 
 This language is based on the Python programming language and was developed to simplify the process of testing and deploying trading 
 bots for cryptocurrencies. Currrently the platform supports simulated trading on Coinbase Pro, Gemini, BinanceUS, and Kraken. 
 
@@ -15,9 +15,10 @@ Net5.0 and NodeJS v14.17.4
 ## Usage
 
 1. open project `cd quantyle-ide`
-2. install npm `cd frontend && npm i`
-2. in a new terminal: `cd X1 && dotnet run`. It may take some time to retrieve all ticks
+2. install npm `cd frontend && npm i && npm run dev`
+3. in a new terminal: `cd X1 && dotnet run`. It may take some time to retrieve all ticks
 
+<img src="./frontend/src/readme-0.svg" alt="drawing" width="400"/>
 
 
 ## Disclaimer

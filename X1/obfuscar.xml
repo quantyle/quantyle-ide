@@ -11,5 +11,5 @@
 <Var name="HideStrings" value="true" />
 <Var name="OptimizeMethods" value="true" />
 <Var name="SuppressIldasm" value="true" />
-<Module file="$(InPath)/X1.dll" />
+<Module file="$(InPath)/backend.dll" />
 </Obfuscator>
