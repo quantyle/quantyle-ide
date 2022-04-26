@@ -5,7 +5,7 @@ This language is based on the Python programming language and was developed to s
 bots for cryptocurrencies. Currrently the platform supports simulated trading on Coinbase Pro, Gemini, BinanceUS, and Kraken. 
 
 
-<img src="./frontend/src/techstack.svg" alt="drawing" width="400"/>
+<img src="./frontend/src/techstack.svg" alt="demo" width="400"/>
 
 
 ## Requirements
